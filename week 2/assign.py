@@ -16,4 +16,5 @@ my_list.sort()
 #FINDING AND PRINTING INDEX OF 30
 index_30 = my_list.index(30)
 print("Index of 30:", index_30)
+print(my_list)
 
